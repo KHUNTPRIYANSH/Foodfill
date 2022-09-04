@@ -23,6 +23,7 @@ This site Food Waste Management system can assist in collecting the leftover foo
 
 ## Tech Stack
 
-**Client:** React, HTML5 , CSS3 , FIREBASE 
+**Client:** React, HTML5 , CSS3 , FIREBASE  
 
-**Server:** Node, Express
+**Server:** Node, Express , MongoDB
+
